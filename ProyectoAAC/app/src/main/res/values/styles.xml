@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="fondoNegro">
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+    <style name="fondoOscuro">
+        <item name="android:background">@color/colorOscuro</item>
+    </style>
+    <style name="textoNegroMedio">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textSize">@dimen/medio</item>
+    </style>
+    <style name="textoNegroMedio.centrado">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="textoNegroGrande">
+        <item name="android:textSize">@dimen/grande</item>
+    </style>
+    <style name="radiobuttons">
+        <item name="android:textSize">@dimen/mediogrande</item>
+        <item name="android:layout_marginBottom">@dimen/mediogrande</item>
+    </style>
+    <style name="button">
+        <item name="android:textSize">@dimen/medio</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/whiteColor</item>
+    </style>
+    <style name="textoMedioGrande">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textSize">@dimen/mediogrande</item>
+    </style>
+    <style name="nombreHistorial">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textSize">@dimen/nombreHistorial</item>
+    </style>
+    <style name="textoMedio">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textSize">@dimen/medio</item>
+    </style>
+    <style name="textoMedioGrandeCentrado">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/mediogrande</item>
+    </style>
+</resources>

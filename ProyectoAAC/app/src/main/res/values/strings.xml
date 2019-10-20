@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="respSi">Yes</string>
+    <string name="respNo">No</string>
+    <string name="mensajeExplicacionLecturaContactos">Read permission is needed to show you all your contacts</string>
+    <string name="tituloLecturaContactos">Requirement to read contacts</string>
+    <string name="ajustes">Settings</string>
+    <string name="exportar">Save</string>
+    <string name="historial">Records</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="mensajeExplicacionEscrituraContactos">Write permission is needed to save all your contacts</string>
+    <string name="tituloEscrituraContactos">Requirement to write contacts</string>
+
+    <string name="error">You must complete all fields to continue and the name must have more than 4 letters</string>
+    <string name="correctly">Your contacts have been saved correctly</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Add</string>
+    <string name="sync_header">Remember</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">File format</string>
+    <string name="location">Set a default location</string>
+    <string name="interno">Internal location</string>
+    <string name="privado">Private location</string>
+    <string name="tituloLocation">Save file in: </string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">Last file name and location</string>
+
+    <string name="locationExport">Select the location:</string>
+    <string name="filename">File name:</string>
+    <string name="writefilename">Write the name</string>
+    <string name="toExport">Export</string>
+    <string name="internoLocation">Internal</string>
+    <string name="privadoLocation">Private</string>
+
+
+    <!--HISTORIAL-->
+    <string name="abrir">OPEN</string>
+    <string name="noFiles">You haven\'t created records yet</string>
+    <string name="errorEscribir">File not found</string>
+</resources>

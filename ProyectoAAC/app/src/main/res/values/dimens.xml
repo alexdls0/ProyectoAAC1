@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medio">16sp</dimen>
+    <dimen name="mediogrande">22sp</dimen>
+    <dimen name="grande">30sp</dimen>
+    <dimen name="nombreHistorial">21sp</dimen>
+</resources>

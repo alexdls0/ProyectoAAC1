@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnO1"
+        android:icon="@drawable/ic_save_black_24dp"
+        android:title="@string/exportar"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/mnO2"
+        android:icon="@drawable/ic_folder_open_black_24dp"
+        android:title="@string/historial"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/mnO3"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/ajustes"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>
